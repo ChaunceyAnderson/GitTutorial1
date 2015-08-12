@@ -13,3 +13,6 @@ Starting feature: experimental-test-1
 Second change in feature: experimental-test-1
 
 ----------------------
+
+Feature: Test03-Rebase experiment
+	Change 1
